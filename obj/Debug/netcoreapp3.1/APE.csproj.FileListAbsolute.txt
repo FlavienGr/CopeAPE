@@ -1,0 +1,13 @@
+C:\Users\flavi\Documents\bts\csharp\chap3TP\APE\bin\Debug\netcoreapp3.1\APE.exe
+C:\Users\flavi\Documents\bts\csharp\chap3TP\APE\bin\Debug\netcoreapp3.1\APE.deps.json
+C:\Users\flavi\Documents\bts\csharp\chap3TP\APE\bin\Debug\netcoreapp3.1\APE.runtimeconfig.json
+C:\Users\flavi\Documents\bts\csharp\chap3TP\APE\bin\Debug\netcoreapp3.1\APE.runtimeconfig.dev.json
+C:\Users\flavi\Documents\bts\csharp\chap3TP\APE\bin\Debug\netcoreapp3.1\APE.dll
+C:\Users\flavi\Documents\bts\csharp\chap3TP\APE\bin\Debug\netcoreapp3.1\APE.pdb
+C:\Users\flavi\Documents\bts\csharp\chap3TP\APE\obj\Debug\netcoreapp3.1\APE.csprojAssemblyReference.cache
+C:\Users\flavi\Documents\bts\csharp\chap3TP\APE\obj\Debug\netcoreapp3.1\APE.AssemblyInfoInputs.cache
+C:\Users\flavi\Documents\bts\csharp\chap3TP\APE\obj\Debug\netcoreapp3.1\APE.AssemblyInfo.cs
+C:\Users\flavi\Documents\bts\csharp\chap3TP\APE\obj\Debug\netcoreapp3.1\APE.csproj.CoreCompileInputs.cache
+C:\Users\flavi\Documents\bts\csharp\chap3TP\APE\obj\Debug\netcoreapp3.1\APE.dll
+C:\Users\flavi\Documents\bts\csharp\chap3TP\APE\obj\Debug\netcoreapp3.1\APE.pdb
+C:\Users\flavi\Documents\bts\csharp\chap3TP\APE\obj\Debug\netcoreapp3.1\APE.genruntimeconfig.cache
